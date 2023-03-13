@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musaumakau/Nodejs-app.git"
+  },
+  "author": "Juan Makau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musaumakau/Nodejs-app/issues"
+  },
+  "homepage": "https://github.com/musaumakau/Nodejs-app#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
