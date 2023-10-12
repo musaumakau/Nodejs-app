@@ -4,7 +4,7 @@
 # Version      Date        Info
 # 1.0          2023       Initial Version
 #
-# Made by Juan Makau
+# Made by Juan Makau Morales
 #---------------------------------------------------------------------
 name: CI-CD-Pipeline-to-AWS-ElasticBeanstalk
 env:
